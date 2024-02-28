@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "omar-ram-39wC-eVMtYk-unsplash_83bfd163-1a82-48f5-9db1-b68d2a26bb0f.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
